@@ -1,0 +1,11 @@
+C:\Users\Maria Luiza\Documents\Luiza\idadealuno\idadealuno\obj\Debug\netcoreapp3.1\idadealuno.csprojAssemblyReference.cache
+C:\Users\Maria Luiza\Documents\Luiza\idadealuno\idadealuno\obj\Debug\netcoreapp3.1\idadealuno.AssemblyInfoInputs.cache
+C:\Users\Maria Luiza\Documents\Luiza\idadealuno\idadealuno\obj\Debug\netcoreapp3.1\idadealuno.AssemblyInfo.cs
+C:\Users\Maria Luiza\Documents\Luiza\idadealuno\idadealuno\bin\Debug\netcoreapp3.1\idadealuno.exe
+C:\Users\Maria Luiza\Documents\Luiza\idadealuno\idadealuno\bin\Debug\netcoreapp3.1\idadealuno.deps.json
+C:\Users\Maria Luiza\Documents\Luiza\idadealuno\idadealuno\bin\Debug\netcoreapp3.1\idadealuno.runtimeconfig.json
+C:\Users\Maria Luiza\Documents\Luiza\idadealuno\idadealuno\bin\Debug\netcoreapp3.1\idadealuno.runtimeconfig.dev.json
+C:\Users\Maria Luiza\Documents\Luiza\idadealuno\idadealuno\bin\Debug\netcoreapp3.1\idadealuno.dll
+C:\Users\Maria Luiza\Documents\Luiza\idadealuno\idadealuno\bin\Debug\netcoreapp3.1\idadealuno.pdb
+C:\Users\Maria Luiza\Documents\Luiza\idadealuno\idadealuno\obj\Debug\netcoreapp3.1\idadealuno.dll
+C:\Users\Maria Luiza\Documents\Luiza\idadealuno\idadealuno\obj\Debug\netcoreapp3.1\idadealuno.pdb
